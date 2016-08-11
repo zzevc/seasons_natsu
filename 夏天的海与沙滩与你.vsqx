@@ -21625,19 +21625,122 @@
 				<pc>2</pc>
 			</singer>
 			<cc><t>0</t><v id="D">64</v></cc>
-			<cc><t>0</t><v id="R">64</v></cc>
 			<cc><t>0</t><v id="C">0</v></cc>
 			<cc><t>0</t><v id="S">12</v></cc>
+			<cc><t>0</t><v id="R">64</v></cc>
 			<cc><t>0</t><v id="T">64</v></cc>
 			<cc><t>181</t><v id="C">0</v></cc>
 			<cc><t>181</t><v id="S">12</v></cc>
+			<cc><t>2802</t><v id="T">62</v></cc>
+			<cc><t>2810</t><v id="T">61</v></cc>
+			<cc><t>2816</t><v id="T">60</v></cc>
+			<cc><t>2822</t><v id="T">59</v></cc>
+			<cc><t>2828</t><v id="T">58</v></cc>
+			<cc><t>2834</t><v id="T">57</v></cc>
+			<cc><t>2840</t><v id="T">56</v></cc>
+			<cc><t>2848</t><v id="T">55</v></cc>
+			<cc><t>2854</t><v id="T">54</v></cc>
+			<cc><t>2860</t><v id="T">53</v></cc>
+			<cc><t>2866</t><v id="T">52</v></cc>
+			<cc><t>2872</t><v id="T">51</v></cc>
+			<cc><t>2878</t><v id="T">50</v></cc>
+			<cc><t>2886</t><v id="T">49</v></cc>
+			<cc><t>2892</t><v id="T">48</v></cc>
+			<cc><t>2898</t><v id="T">47</v></cc>
+			<cc><t>2904</t><v id="T">46</v></cc>
+			<cc><t>2910</t><v id="T">45</v></cc>
+			<cc><t>2916</t><v id="T">44</v></cc>
+			<cc><t>2917</t><v id="T">64</v></cc>
+			<cc><t>3146</t><v id="T">63</v></cc>
+			<cc><t>3154</t><v id="T">62</v></cc>
+			<cc><t>3160</t><v id="T">61</v></cc>
+			<cc><t>3168</t><v id="T">60</v></cc>
+			<cc><t>3174</t><v id="T">59</v></cc>
+			<cc><t>3182</t><v id="T">58</v></cc>
+			<cc><t>3188</t><v id="T">57</v></cc>
+			<cc><t>3196</t><v id="T">56</v></cc>
+			<cc><t>3202</t><v id="T">55</v></cc>
+			<cc><t>3210</t><v id="T">54</v></cc>
+			<cc><t>3216</t><v id="T">53</v></cc>
+			<cc><t>3224</t><v id="T">52</v></cc>
+			<cc><t>3230</t><v id="T">51</v></cc>
+			<cc><t>3238</t><v id="T">50</v></cc>
+			<cc><t>3244</t><v id="T">49</v></cc>
+			<cc><t>3251</t><v id="T">48</v></cc>
+			<cc><t>3252</t><v id="T">64</v></cc>
+			<cc><t>3510</t><v id="T">64</v></cc>
+			<cc><t>3516</t><v id="T">63</v></cc>
+			<cc><t>3520</t><v id="T">62</v></cc>
+			<cc><t>3526</t><v id="T">61</v></cc>
+			<cc><t>3530</t><v id="T">60</v></cc>
+			<cc><t>3536</t><v id="T">59</v></cc>
+			<cc><t>3540</t><v id="T">58</v></cc>
+			<cc><t>3546</t><v id="T">57</v></cc>
+			<cc><t>3550</t><v id="T">56</v></cc>
+			<cc><t>3554</t><v id="T">55</v></cc>
+			<cc><t>3560</t><v id="T">54</v></cc>
+			<cc><t>3564</t><v id="T">53</v></cc>
+			<cc><t>3570</t><v id="T">52</v></cc>
+			<cc><t>3574</t><v id="T">51</v></cc>
+			<cc><t>3580</t><v id="T">50</v></cc>
+			<cc><t>3584</t><v id="T">49</v></cc>
+			<cc><t>3590</t><v id="T">48</v></cc>
+			<cc><t>3594</t><v id="T">47</v></cc>
+			<cc><t>3598</t><v id="T">46</v></cc>
+			<cc><t>3599</t><v id="T">64</v></cc>
+			<cc><t>3836</t><v id="T">62</v></cc>
+			<cc><t>3844</t><v id="T">61</v></cc>
+			<cc><t>3852</t><v id="T">60</v></cc>
+			<cc><t>3860</t><v id="T">59</v></cc>
+			<cc><t>3866</t><v id="T">58</v></cc>
+			<cc><t>3874</t><v id="T">57</v></cc>
+			<cc><t>3882</t><v id="T">56</v></cc>
+			<cc><t>3888</t><v id="T">55</v></cc>
+			<cc><t>3896</t><v id="T">54</v></cc>
+			<cc><t>3904</t><v id="T">53</v></cc>
+			<cc><t>3910</t><v id="T">52</v></cc>
+			<cc><t>3918</t><v id="T">51</v></cc>
+			<cc><t>3926</t><v id="T">50</v></cc>
+			<cc><t>3932</t><v id="T">49</v></cc>
+			<cc><t>3939</t><v id="T">48</v></cc>
+			<cc><t>3940</t><v id="T">64</v></cc>
+			<cc><t>4187</t><v id="T">64</v></cc>
+			<cc><t>4193</t><v id="T">63</v></cc>
+			<cc><t>4199</t><v id="T">62</v></cc>
+			<cc><t>4203</t><v id="T">61</v></cc>
+			<cc><t>4209</t><v id="T">60</v></cc>
+			<cc><t>4215</t><v id="T">59</v></cc>
+			<cc><t>4219</t><v id="T">58</v></cc>
+			<cc><t>4225</t><v id="T">57</v></cc>
+			<cc><t>4229</t><v id="T">56</v></cc>
+			<cc><t>4235</t><v id="T">55</v></cc>
+			<cc><t>4241</t><v id="T">54</v></cc>
+			<cc><t>4245</t><v id="T">53</v></cc>
+			<cc><t>4251</t><v id="T">52</v></cc>
+			<cc><t>4255</t><v id="T">51</v></cc>
+			<cc><t>4261</t><v id="T">50</v></cc>
+			<cc><t>4267</t><v id="T">49</v></cc>
+			<cc><t>4271</t><v id="T">48</v></cc>
+			<cc><t>4277</t><v id="T">47</v></cc>
+			<cc><t>4281</t><v id="T">46</v></cc>
+			<cc><t>4286</t><v id="T">45</v></cc>
+			<cc><t>4287</t><v id="T">64</v></cc>
+			<cc><t>4512</t><v id="D">64</v></cc>
+			<cc><t>4588</t><v id="D">63</v></cc>
+			<cc><t>4664</t><v id="D">62</v></cc>
+			<cc><t>4740</t><v id="D">61</v></cc>
+			<cc><t>4814</t><v id="D">60</v></cc>
+			<cc><t>4890</t><v id="D">59</v></cc>
+			<cc><t>4966</t><v id="D">58</v></cc>
+			<cc><t>5040</t><v id="D">57</v></cc>
+			<cc><t>6421</t><v id="D">64</v></cc>
 			<cc><t>32641</t><v id="S">12</v></cc>
 			<cc><t>32646</t><v id="S">12</v></cc>
 			<note>
 				<t>481</t>
 				<dur>317</dur>
 				<n>84</n>
-				<v>64</v>
+				<v>105</v>
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
 				<nStyle>
@@ -21648,15 +21751,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">56</v>
+					<v id="vibType">15</v>
+					<seq id="vibDep">
+						<cc><p>28523</p><v>72</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>28523</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
 				<t>806</t>
 				<dur>312</dur>
 				<n>83</n>
-				<v>64</v>
+				<v>103</v>
 				<y><![CDATA[xin]]></y>
 				<p><![CDATA[s\ i_n]]></p>
 				<nStyle>
@@ -21667,15 +21776,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">56</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>28464</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>28464</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
 				<t>1126</t>
 				<dur>317</dur>
 				<n>79</n>
-				<v>64</v>
+				<v>91</v>
 				<y><![CDATA[you]]></y>
 				<p><![CDATA[i@U]]></p>
 				<nStyle>
@@ -21686,15 +21801,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">66</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>21914</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>21914</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
 				<t>1451</t>
 				<dur>477</dur>
 				<n>81</n>
-				<v>64</v>
+				<v>49</v>
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
@@ -21705,15 +21826,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">15</v>
+					<seq id="vibDep">
+						<cc><p>29031</p><v>72</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29031</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
 				<t>1936</t>
-				<dur>262</dur>
+				<dur>207</dur>
 				<n>79</n>
-				<v>64</v>
+				<v>81</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -21724,15 +21851,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>29126</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29126</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>2206</t>
-				<dur>302</dur>
+				<t>2151</t>
+				<dur>319</dur>
 				<n>79</n>
-				<v>64</v>
+				<v>113</v>
 				<y><![CDATA[xia]]></y>
 				<p><![CDATA[s\ ia]]></p>
 				<nStyle>
@@ -21743,15 +21876,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>29240</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29240</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>2516</t>
+				<t>2492</t>
 				<dur>352</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>102</v>
 				<y><![CDATA[tian]]></y>
 				<p><![CDATA[t_h iE_n]]></p>
 				<nStyle>
@@ -21762,15 +21901,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>29230</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29230</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>2876</t>
-				<dur>317</dur>
+				<t>2854</t>
+				<dur>329</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>66</v>
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
@@ -21781,15 +21926,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>29181</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29181</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>3201</t>
-				<dur>394</dur>
+				<t>3190</t>
+				<dur>358</dur>
 				<n>76</n>
-				<v>64</v>
+				<v>56</v>
 				<y><![CDATA[ding]]></y>
 				<p><![CDATA[t iN]]></p>
 				<nStyle>
@@ -21800,15 +21951,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">15</v>
+					<seq id="vibDep">
+						<cc><p>29228</p><v>72</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29228</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>3599</t>
-				<dur>312</dur>
+				<t>3557</t>
+				<dur>313</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>83</v>
 				<y><![CDATA[hui]]></y>
 				<p><![CDATA[x uei]]></p>
 				<nStyle>
@@ -21819,15 +21976,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>29242</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29242</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>3914</t>
-				<dur>340</dur>
+				<t>3882</t>
+				<dur>343</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>81</v>
 				<y><![CDATA[chu]]></y>
 				<p><![CDATA[ts`_h u]]></p>
 				<nStyle>
@@ -21838,15 +22001,21 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">55</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>29232</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>29232</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
-				<t>4261</t>
-				<dur>2082</dur>
+				<t>4233</t>
+				<dur>1532</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>104</v>
 				<y><![CDATA[xian]]></y>
 				<p><![CDATA[s\ iE_n]]></p>
 				<nStyle>
@@ -21857,8 +22026,128 @@
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">53</v>
+					<v id="vibType">16</v>
+					<seq id="vibDep">
+						<cc><p>30450</p><v>64</v></cc>
+						<cc><p>51659</p><v>64</v></cc>
+						<cc><p>51936</p><v>63</v></cc>
+						<cc><p>52087</p><v>62</v></cc>
+						<cc><p>52238</p><v>61</v></cc>
+						<cc><p>52392</p><v>59</v></cc>
+						<cc><p>52669</p><v>58</v></cc>
+						<cc><p>52820</p><v>57</v></cc>
+						<cc><p>52971</p><v>56</v></cc>
+						<cc><p>53097</p><v>55</v></cc>
+						<cc><p>53403</p><v>54</v></cc>
+						<cc><p>53553</p><v>52</v></cc>
+						<cc><p>53831</p><v>51</v></cc>
+						<cc><p>53982</p><v>50</v></cc>
+						<cc><p>54136</p><v>49</v></cc>
+						<cc><p>54287</p><v>48</v></cc>
+						<cc><p>54414</p><v>47</v></cc>
+						<cc><p>54715</p><v>45</v></cc>
+						<cc><p>54870</p><v>44</v></cc>
+						<cc><p>55147</p><v>43</v></cc>
+						<cc><p>55298</p><v>42</v></cc>
+						<cc><p>55448</p><v>41</v></cc>
+						<cc><p>55603</p><v>40</v></cc>
+						<cc><p>55729</p><v>39</v></cc>
+						<cc><p>55880</p><v>38</v></cc>
+						<cc><p>56031</p><v>37</v></cc>
+						<cc><p>56336</p><v>35</v></cc>
+						<cc><p>56613</p><v>34</v></cc>
+						<cc><p>56764</p><v>32</v></cc>
+						<cc><p>57066</p><v>31</v></cc>
+						<cc><p>57192</p><v>30</v></cc>
+						<cc><p>57346</p><v>29</v></cc>
+						<cc><p>57497</p><v>28</v></cc>
+						<cc><p>57648</p><v>27</v></cc>
+						<cc><p>57925</p><v>25</v></cc>
+						<cc><p>58230</p><v>24</v></cc>
+						<cc><p>58356</p><v>23</v></cc>
+						<cc><p>58507</p><v>22</v></cc>
+						<cc><p>58658</p><v>21</v></cc>
+						<cc><p>58813</p><v>20</v></cc>
+						<cc><p>58964</p><v>19</v></cc>
+						<cc><p>59241</p><v>17</v></cc>
+						<cc><p>59547</p><v>15</v></cc>
+						<cc><p>59824</p><v>14</v></cc>
+						<cc><p>59975</p><v>13</v></cc>
+						<cc><p>60125</p><v>12</v></cc>
+						<cc><p>60276</p><v>11</v></cc>
+						<cc><p>60431</p><v>10</v></cc>
+						<cc><p>60708</p><v>8</v></cc>
+						<cc><p>60859</p><v>7</v></cc>
+						<cc><p>61164</p><v>6</v></cc>
+						<cc><p>61290</p><v>5</v></cc>
+						<cc><p>61441</p><v>4</v></cc>
+						<cc><p>61592</p><v>3</v></cc>
+						<cc><p>61743</p><v>2</v></cc>
+						<cc><p>61869</p><v>1</v></cc>
+						<cc><p>62023</p><v>0</v></cc>
+						<cc><p>65536</p><v>0</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>30450</p><v>64</v></cc>
+						<cc><p>51659</p><v>64</v></cc>
+						<cc><p>51936</p><v>63</v></cc>
+						<cc><p>52087</p><v>62</v></cc>
+						<cc><p>52238</p><v>61</v></cc>
+						<cc><p>52392</p><v>59</v></cc>
+						<cc><p>52669</p><v>58</v></cc>
+						<cc><p>52820</p><v>57</v></cc>
+						<cc><p>52971</p><v>56</v></cc>
+						<cc><p>53097</p><v>55</v></cc>
+						<cc><p>53403</p><v>54</v></cc>
+						<cc><p>53553</p><v>52</v></cc>
+						<cc><p>53831</p><v>51</v></cc>
+						<cc><p>53982</p><v>50</v></cc>
+						<cc><p>54136</p><v>49</v></cc>
+						<cc><p>54287</p><v>48</v></cc>
+						<cc><p>54414</p><v>47</v></cc>
+						<cc><p>54715</p><v>45</v></cc>
+						<cc><p>54870</p><v>44</v></cc>
+						<cc><p>55147</p><v>43</v></cc>
+						<cc><p>55298</p><v>42</v></cc>
+						<cc><p>55448</p><v>41</v></cc>
+						<cc><p>55603</p><v>40</v></cc>
+						<cc><p>55729</p><v>39</v></cc>
+						<cc><p>55880</p><v>38</v></cc>
+						<cc><p>56031</p><v>37</v></cc>
+						<cc><p>56336</p><v>35</v></cc>
+						<cc><p>56613</p><v>34</v></cc>
+						<cc><p>56764</p><v>32</v></cc>
+						<cc><p>57066</p><v>31</v></cc>
+						<cc><p>57192</p><v>30</v></cc>
+						<cc><p>57346</p><v>29</v></cc>
+						<cc><p>57497</p><v>28</v></cc>
+						<cc><p>57648</p><v>27</v></cc>
+						<cc><p>57925</p><v>25</v></cc>
+						<cc><p>58230</p><v>24</v></cc>
+						<cc><p>58356</p><v>23</v></cc>
+						<cc><p>58507</p><v>22</v></cc>
+						<cc><p>58658</p><v>21</v></cc>
+						<cc><p>58813</p><v>20</v></cc>
+						<cc><p>58964</p><v>19</v></cc>
+						<cc><p>59241</p><v>17</v></cc>
+						<cc><p>59547</p><v>15</v></cc>
+						<cc><p>59824</p><v>14</v></cc>
+						<cc><p>59975</p><v>13</v></cc>
+						<cc><p>60125</p><v>12</v></cc>
+						<cc><p>60276</p><v>11</v></cc>
+						<cc><p>60431</p><v>10</v></cc>
+						<cc><p>60708</p><v>8</v></cc>
+						<cc><p>60859</p><v>7</v></cc>
+						<cc><p>61164</p><v>6</v></cc>
+						<cc><p>61290</p><v>5</v></cc>
+						<cc><p>61441</p><v>4</v></cc>
+						<cc><p>61592</p><v>3</v></cc>
+						<cc><p>61743</p><v>2</v></cc>
+						<cc><p>61869</p><v>1</v></cc>
+						<cc><p>62023</p><v>0</v></cc>
+						<cc><p>65536</p><v>0</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
